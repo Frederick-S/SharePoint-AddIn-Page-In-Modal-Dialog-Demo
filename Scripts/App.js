@@ -9,7 +9,7 @@ function initializePage() {
         });
 
         $('#open-framing-aspx-page').click(function () {
-            openModalDialog('./Framing-Page.aspx', 'This is framing allowed aspx page');
+            openModalDialog('./Framing-Page.aspx', 'This is a framing allowed aspx page');
         });
 
         $('#open-html-page').click(function () {
