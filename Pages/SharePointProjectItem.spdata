@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Pages\" Type="ElementManifest" />
+    <ProjectItemFile Source="Default.aspx" Target="Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="Non-Framing-Page.aspx" Target="Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="Framing-Page.aspx" Target="Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="SharePoint_AddIn_Page_In_Modal_Dialog_Demo_App_Part.aspx" Target="Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="Html-Page.html" Target="Pages\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

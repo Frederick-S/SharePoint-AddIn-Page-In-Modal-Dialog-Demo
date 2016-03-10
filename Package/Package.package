@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="c589fe58-38e8-462e-94b0-cbede533256c" 
+        solutionId="c589fe58-38e8-462e-94b0-cbede533256c" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePoint_AddIn_Page_In_Modal_Dialog_Demo"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="7866dac0-230b-4215-af27-6ddaa730f0ac" />
+  </features>
+</package>

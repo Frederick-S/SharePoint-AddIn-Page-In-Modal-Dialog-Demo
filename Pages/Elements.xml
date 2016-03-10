@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Pages">
+    <File Path="Pages\Default.aspx" Url="Pages/Default.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\Non-Framing-Page.aspx" Url="Pages/Non-Framing-Page.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\Framing-Page.aspx" Url="Pages/Framing-Page.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\SharePoint_AddIn_Page_In_Modal_Dialog_Demo_App_Part.aspx" Url="Pages/SharePoint_AddIn_Page_In_Modal_Dialog_Demo_App_Part.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\Html-Page.html" Url="Pages/Html-Page.html" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
